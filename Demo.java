@@ -1,30 +1,22 @@
-Here's a draft of the email you can send to the vendor:
+Subject: Important Update: SSO Integration and Required Actions for Your Team
 
----
+Dear [Team Lead's Name],
 
-**Subject:** Confirmation of SSO Setup: Azure AD and ISSO Federation
+We are in the process of integrating Single Sign-On (SSO) on our website for enhanced security and seamless access. To ensure a smooth transition, please take the following actions for your team:
 
-Dear [Vendor's Name],
+Ensure SSO Access: All your team members must access the application using SSO. The standard email and password login will no longer be supported. Please verify that every team member is using SSO to log in.
 
-I hope this email finds you well.
+Install Microsoft Authenticator: It is mandatory for all users to install the Microsoft Authenticator mobile app on their devices. This app will be used for multi-factor authentication (MFA) when accessing the application.
 
-We are in the process of setting up Single Sign-On (SSO) for our integration, and I would like to confirm the following details regarding our respective setups:
+Azure AD Group Membership: Please confirm that all your team members are added to the relevant Azure Active Directory (AD) group to allow them access to the application.
 
-- **Our Side:** We are using Azure Active Directory (Azure AD) as our Identity Provider (IdP), configured to use SAML 2.0 as the authentication protocol.
-- **Vendor's Side:** As per our discussions, we understand that you are using ISSO Federation on your side to handle SSO.
+Your prompt attention to these steps will ensure that your team can continue to access the application securely and without disruption.
 
-To ensure a smooth and successful integration, please confirm that the above details align with your setup. If there are any discrepancies or additional information needed from our side, kindly let us know so we can address them promptly.
+If you have any questions or require assistance, feel free to reach out.
 
-Once confirmed, we can proceed with the necessary metadata exchange and configuration steps to establish the trust relationship between our systems.
+Thank you for your cooperation.
 
-Thank you for your cooperation, and we look forward to your confirmation.
-
-Best regards,  
-[Your Full Name]  
-[Your Position]  
-[Your Company Name]  
+Best regards,
+[Your Name]
+[Your Position]
 [Your Contact Information]
-
----
-
-Feel free to customize the email as needed before sending it.
