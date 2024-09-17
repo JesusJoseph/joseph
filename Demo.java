@@ -1,22 +1,13 @@
-Subject: Important Update: SSO Integration and Required Actions for Your Team
+I hope this email finds you well. We are preparing for an upcoming production release and would like to request your assistance in planning for the transition.
 
-Dear [Team Lead's Name],
+Our approach for this release is to maintain both the old login system and the new SSO sign-in simultaneously. This will help ensure a seamless transition, preventing any outages even if some users are not ready to switch over immediately.
 
-We are in the process of integrating Single Sign-On (SSO) on our website for enhanced security and seamless access. To ensure a smooth transition, please take the following actions for your team:
+Could you please help us coordinate this process and ensure that everything is set up for a smooth deployment? Your support in executing this plan will be greatly appreciated.
 
-Ensure SSO Access: All your team members must access the application using SSO. The standard email and password login will no longer be supported. Please verify that every team member is using SSO to log in.
+Feel free to reach out if you need any further information, and please let us know if there are any additional considerations on your end.
 
-Install Microsoft Authenticator: It is mandatory for all users to install the Microsoft Authenticator mobile app on their devices. This app will be used for multi-factor authentication (MFA) when accessing the application.
-
-Azure AD Group Membership: Please confirm that all your team members are added to the relevant Azure Active Directory (AD) group to allow them access to the application.
-
-Your prompt attention to these steps will ensure that your team can continue to access the application securely and without disruption.
-
-If you have any questions or require assistance, feel free to reach out.
-
-Thank you for your cooperation.
+Looking forward to your response.
 
 Best regards,
 [Your Name]
 [Your Position]
-[Your Contact Information]
