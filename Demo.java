@@ -1,5 +1,18 @@
-Regarding UAT and production, I wanted to update you on a couple of points:
+Subject: Request for Confirmation on UAT Sign-Off and Production Timeline
 
-Even after we provide the UAT sign-off, the U80 users will still be required to perform unit testing. Therefore, we need to maintain both SSO and the standard login options, even after the UAT sign-off is completed.
+Hi [Recipient's Name],
 
-Once they give the sign-off by this Friday, the next step is to move the changes to production. However, the production environment should only be activated on September 30, as that is the official production date provided by UBSI.
+I hope you're doing well. I wanted to follow up on the email I sent earlier regarding the UAT and production environments. 
+
+As mentioned, we are providing the UAT sign-off, but I need confirmation on a few points:
+
+1. **Unit Testing for U80 Users**: Even after the UAT sign-off, U80 users will still be required to perform unit testing. To accommodate this, we need to maintain both the SSO and standard login options post-UAT sign-off. Could you please confirm if this is agreed upon?
+
+2. **Production Go-Live**: Once the UAT sign-off is completed by Friday, we will proceed with moving the changes to production. However, as per the timeline provided by UBSI, the production environment should only go live on **September 30**. Please confirm that this schedule is still on track.
+
+Your confirmation on these points is critical as we prepare for the next steps.
+
+Looking forward to your response.
+
+Best regards,  
+[Your Name]  
